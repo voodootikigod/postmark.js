@@ -1,3 +1,7 @@
+#### NOTICE:
+
+Wildbit (operators of postmarkapp.com) currently maintains the Postmark.js module. [Please head over there](https://github.com/wildbit/postmark.js) for the most up to date version.
+
 ## Postmark.js
 
 Send emails with the greatest of ease! Now your node.js application can send emails through [Postmark](http://www.postmarkapp.com).
